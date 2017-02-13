@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/download":{"guestpath":"/var/download","hostpath":"C:/Users/Julien/Documents/Forks/udacity-deep-learning-foundation/download","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Julien/Documents/Forks/udacity-deep-learning-foundation/env/vagrant/miniconda","disabled":false,"__vagrantfile":true}}}
