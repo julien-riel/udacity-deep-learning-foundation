@@ -1,3 +1,6 @@
 download/
 .vagrant/
 env/vagrant/miniconda/.vagrant/
+env/vagrant/miniconda/.ipynb_checkpoints/
+env/vagrant/pip/.vagrant/
+env/vagrant/pip/.ipynb_checkpoints
